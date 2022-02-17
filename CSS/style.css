@@ -1,0 +1,14 @@
+p
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.paragrafy
+{
+    background-color: blue;
+}
+.paragrafy-2
+{
+    opacity: 50%;
+}
